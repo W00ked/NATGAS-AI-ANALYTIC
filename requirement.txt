@@ -1,0 +1,8 @@
+requests
+pandas
+alpha_vantage
+pandas_ta
+openai
+scikit-learn
+matplotlib
+mplfinance
